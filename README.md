@@ -45,6 +45,8 @@ The objective of this project is to transform raw sales data into meaningful vis
 
 
 ## Dashboard Preview
+<img width="1656" height="965" alt="Screenshot 2026-07-04 210124" src="https://github.com/user-attachments/assets/b2a20535-ee11-41dc-ac0e-1eaaa9c258b6" />
+
 
 
 
